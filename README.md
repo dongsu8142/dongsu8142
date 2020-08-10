@@ -1,4 +1,6 @@
-### Hi there 👋
+### 한동준의 프로파일에 오신걸 환영 합니다.👋
+
+![hands8142's github stats](https://github-readme-stats.vercel.app/api?username=hands8142&show_icons=true&hide_border=true)
 
 <!--
 **hands8142/hands8142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
