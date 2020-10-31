@@ -1,7 +1,7 @@
 ### 한동준의 프로파일에 오신 걸 환영합니다.👋
 
 ![hands8142's github stats](https://github-readme-stats.vercel.app/api?username=hands8142&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidBySolo&layout=compact)](https://github.com/SaidBySolo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hands8142&layout=compact)](https://github.com/hands8142)
 
 <!--
 **hands8142/hands8142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
