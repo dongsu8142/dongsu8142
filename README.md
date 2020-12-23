@@ -3,6 +3,7 @@
 ### 할수있는 언어들
 - java
 - javascript
+- typescript
 - python
 
 ![hands8142's github stats](https://github-readme-stats.vercel.app/api?username=hands8142&show_icons=true&hide_border=true)
