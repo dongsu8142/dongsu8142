@@ -2,7 +2,7 @@
 
 Hello, I'm Han Dong-soo. I am studying programming while attending high school in my country.
 
-📫 How to reach me:
+### 📫 How to reach me:
 
 - **Discord:** 한동준#0551
 - **Email:** hands8142@kakao.com
